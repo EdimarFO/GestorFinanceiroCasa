@@ -1,0 +1,1 @@
+Este projeto visa o controle financeiro de uma casa, com previsões e também armazenamento de entradas e saidas,de um grupo, família ou de apenas uma pessoa.
